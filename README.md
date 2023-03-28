@@ -6,7 +6,7 @@ This is a Grasshopper API connector to the geotechnical site investigation data 
 3) Location ID text-tag placed at the terrain point level
 
 Filters are applied to allow only the following data:
-1. Total soundings must have status code: *Conducted* or *Approved* (this is set in Field Manager directly)
+1. Total soundings must have status code: *Conducted* or *Approved*
 2. Total soundings must have stop code *93* or *94*
 
 ![Script layout](./figures/fig_1.PNG)
