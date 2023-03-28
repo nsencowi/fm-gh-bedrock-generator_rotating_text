@@ -27,6 +27,14 @@ You can open this folder from Grasshopper, go to File->Special Folders->Componen
 When you have copied the file to the folder, right click on the file and select Properties. 
 Make sure you have Administrator Rights and if needed check the box "Enable".  
 
+# 4 Run the script
+To run the script:
+
+1) enter the project number 
+
+2) paste API token from from the Field Manager API website
+app.fieldmanager.io/developer
+
 # 4 Licence
 Licensed under the MIT license.
 
