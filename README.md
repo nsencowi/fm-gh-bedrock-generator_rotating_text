@@ -49,4 +49,4 @@ Licensed under the MIT license.
 [Field Manager](https://fieldmanager.io) is a SaaS solution supporting data management and project collaboration for geotechnical site investigations. The software is developed in-house by the [Norwegian Geotechnical Institute (NGI)](https://www.ngi.no/).
 
 # Contribute
-Have you identified a problem with the code? Have a feature request? We want to hear about it! Submit an issue or start a discussion!
+We encourage the community to contribute to the development of this script and hope that you will submit a pull request or start a discussion!
