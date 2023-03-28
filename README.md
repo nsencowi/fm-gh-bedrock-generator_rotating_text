@@ -1,7 +1,7 @@
 # fm-gh-bedrock-generator
 
 This script connects [Grasshopper](https://www.rhino3d.com/) to the geotechnical site investigation data platform [Field Manager](https://fieldmanager.io) API to create the following geometries using [Norwegian Total Sounding](https://ngf.no/publikasjoner/melding-nr-9-veiledning-for-utforelse-av-totalsondering-1994/) (TOT) data:
-1) Bedrock elevation mesh
+1) Bedrock elevation mesh interpolated with [Delunay triangulation](https://en.wikipedia.org/wiki/Delaunay_triangulation)
 2) 3D borehole columns with colour separation on depth_in_soil and depth_in_rock segments
 3) Location ID text-tag placed at the terrain point level
 
