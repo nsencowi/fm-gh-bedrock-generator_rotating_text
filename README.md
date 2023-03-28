@@ -16,7 +16,9 @@ Initial release
 This is an initial release, and the script may contain errors. 
 
 # Dependencies
-This script requires the followin plugins to be installed:
+Access to the FIeld Manager API is required. Reach out to contact@fieldmanager.io to learn more. 
+
+This script also requires the following GH plugins to be installed:
 1. Swiftlet | https://www.food4rhino.com/en/app/swiftlet
 2. Lunchbox | https://www.food4rhino.com/en/app/lunchbox
 
