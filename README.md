@@ -4,7 +4,7 @@ This is a Grasshopper API connector to Field Manager for creation of bedrock sur
 ### Release note v.0.1.0
 Initial release
 
-# Description
+# 1 Description
 The script fetch all Total Sounding methods from a project, creates 3D borehole columns and interpolates a bedrock mesh.
 
 ![Script layout](./figures/fig_1.PNG)
@@ -15,7 +15,7 @@ Conditions on data:
 
 # 2 Dependencies
 This script requires the followin plugins to be installed:
-1. Swiftlet (https://www.food4rhino.com/en/app/swiftlet
+1. Swiftlet (https://www.food4rhino.com/en/app/swiftlet)
 2. Lunchbox (https://www.food4rhino.com/en/app/lunchbox)
 
 Plugins can be downloaded from www.food4rhino.com
