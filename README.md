@@ -1,5 +1,6 @@
 # fm-gh-bedrock-generator
-This is a Grasshopper API connector to Field Manager for creation of bedrock surface mesh. 
+This is a Grasshopper API connector to Field Manager for creation of bedrock surface mesh.
+Please be warned that this is an initial release, and the script may contain errors. 
 
 ### Release note v.0.1.0
 Initial release
@@ -22,7 +23,7 @@ Plugins can be downloaded from www.food4rhino.com
 
 # 3 Installation
 Download the .gh file and place in your Grasshopper Components folder. 
-You can open this folder from Grasshopper, go to File->Special Folders->Components Folders
+You can open this folder from Grasshopper, go to File->Special Folders->Components Folders. 
 When you have copied the file to the folder, right click on the file and select Properties. 
 Make sure you have Administrator Rights and if needed check the box "Enable".  
 
