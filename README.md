@@ -15,7 +15,7 @@ Filters are applied to allow only the following data:
 Initial release
 This is an initial release, and the script may contain errors. 
 
-# Dependencies
+# Requirements
 Access to the FIeld Manager API is required. Reach out to contact@fieldmanager.io to learn more. 
 
 This script also requires the following GH plugins to be installed:
