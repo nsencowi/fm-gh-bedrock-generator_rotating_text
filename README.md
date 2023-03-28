@@ -1,6 +1,6 @@
 # fm-gh-bedrock-generator
 This is a Grasshopper API connector to Field Manager for creation of bedrock surface mesh.
-Please be warned that this is an initial release, and the script may contain errors. 
+This is an initial release, and the script may contain errors. 
 
 ### Release note v.0.1.0
 Initial release
