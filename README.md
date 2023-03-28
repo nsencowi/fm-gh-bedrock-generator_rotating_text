@@ -1,7 +1,7 @@
 # fm-gh-bedrock-generator
 
 This is a Grasshopper API connector to the geotechnical site investigation data platform [Field Manager](https://fieldmanager.io) to create the following geometric objects using Total Sounding (TOT) data:
-1) bedrock elevation mesh
+1) Bedrock elevation mesh
 2) 3D borehole columns with colour separation on depth_in_soil and depth_in_rock segments
 3) Location ID text-tag placed at the terrain point level
 
@@ -9,11 +9,12 @@ Filters are applied to allow only the following data:
 1. Total soundings must have status code: *Conducted* or *Approved*
 2. Total soundings must have stop code *93* or *94*
 
+**The script is a work in progress and does likely contain bugs and errors that have not been documented**
+
 ![Script layout](./figures/fig_1.PNG)
 
 ### Release note v.0.1.0
-Initial release
-This is an initial release, and the script may contain errors. 
+Initial release.
 
 # Requirements
 Access to the FIeld Manager API is required. Reach out to contact@fieldmanager.io to learn more. 
