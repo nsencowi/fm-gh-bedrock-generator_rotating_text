@@ -1,6 +1,6 @@
 # fm-gh-bedrock-generator
 
-This is a Grasshopper API connector to Field Manager for creation of the following geometric objects using Total Sounding (TOT) data:
+This is a Grasshopper API connector to [Field Manager](https://fieldmanager.io) for creation of the following geometric objects using Total Sounding (TOT) data:
 1) bedrock elevation mesh
 2) 3D borehole columns with colour separation on depth_in_soil and depth_in_rock segments
 3) Location ID text-tag placed at the terrain point level
