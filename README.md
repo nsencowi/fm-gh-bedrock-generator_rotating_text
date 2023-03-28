@@ -45,5 +45,8 @@ To see the model in the Rhino viewport, you must click on one of the preview nod
 # Licence
 Licensed under the MIT license.
 
+# About Field Manager
+[Field Manager](https://fieldmanager.io) is a SaaS solution supporting data management and project collaboration for geotechnical site investigations. developed in-house by the [Norwegian Geotechnical Institute (NGI)](https://www.ngi.no/).  
+
 # Contribute
 Have you identified a problem with the code? Have a feature request? We want to hear about it! Submit an issue or start a discussion!
