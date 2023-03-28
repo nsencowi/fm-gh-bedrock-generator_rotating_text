@@ -5,7 +5,7 @@ This is a Grasshopper API connector to Field Manager for creation of bedrock sur
 Initial release
 
 # 1 Description
-The script fetch all Total Sounding methods from a project, creates 3D borehole columns and interpolates a bedrock mesh.
+The script fetch all locations with Total Sounding (TOT) method from a project, creates 3D borehole columns and interpolates a bedrock mesh.
 
 ![Script layout](./figures/fig_1.PNG)
 
