@@ -7,7 +7,7 @@ Initial release
 # Description
 The script fetch all Total Sounding methods from a project, creates 3D borehole columns and interpolates a bedrock mesh.
 
-![Script layout](./figures/fig_1.png)
+![Script layout](./figures/fig_1.PNG)
 
 Conditions on data:
 1. Total soundings must have status code: Conducted or Approved
