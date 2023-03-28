@@ -34,6 +34,10 @@ After you have opened the *.gh file in Grasshopper, the following input is neede
 2) paste API token from from the Field Manager API website
 app.fieldmanager.io/developer
 
+** Check results in Rhino viewport
+To see the model in the Rhino viewport, you must click on one of the preview nodes in Grasshopper, and select "zoom on preview" from the menu bar above the canvas, see figure example below: 
+![Zoom on preview](./figures/fig_2.PNG)
+
 # Licence
 Licensed under the MIT license.
 
