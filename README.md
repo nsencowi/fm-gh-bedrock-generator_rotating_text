@@ -24,14 +24,14 @@ This script also requires the following GH plugins to be installed:
 2. Lunchbox | https://www.food4rhino.com/en/app/lunchbox
 
 # Installation
-Clone the repo or download the fm-gh-bedrock-generator.gh file and place in your Grasshopper Components folder. 
+Clone the repo or download the fm-gh-bedrock-generator.gh file and open it in Grasshopper. 
 
-You can access the Components folder from Grasshopper from File-> Special Folders -> Components Folders. 
-When you have copied the file to the folder, right click on the file and select Properties. 
+Make sure all required plugins are installed in the Components folder. This folder can be accessed in Grasshopper from File-> Special Folders -> Components Folders. 
+When you have copied the plugins to the folder, right click on the files and select Properties. 
 Make sure you have Administrator Rights and if needed check the box "Enable".  
 
 # Run the script
-After you have opened the *.gh file in Grasshopper, the following input is needed:
+After you have opened the fm-gh-bedrock-generator.gh file in Grasshopper, the following input is needed:
 
 1) enter the project number 
 
